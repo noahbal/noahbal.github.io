@@ -4,7 +4,7 @@ date : 2024-01-02 13:13:00 +0100
 categories : [Root-me, Web Client]
 tags : [security breach, xss] # TAGS names should always be lowercase
 ---
-# Cross-Site Scripting
+## Cross-Site Scripting
 
 This [Root-Me](https://www.root-me.org/?page=news&lang=en) challenge introduces the XSS security breach. Let's define the what this vulnerability is.
 
@@ -22,7 +22,7 @@ There are different types of XSS vulnerabilities:
 
 XSS attacks can have serious consequences, such as stealing user sessions, disclosing sensitive information, distributing malware or modifying page content. To protect against XSS vulnerabilities, it is essential to implement appropriate security measures, such as validating and filtering input data, encoding data when it is displayed on web pages, and using security mechanisms such as **Content Security Policies** (CSP) to limit authorized script sources.
 
-# Resolution of the challenge
+## Resolution of the challenge
 
 Here the vulnerability is located in the comment section of the web page. It is a **stored XSS** because the comments are saved on the web page. In order to reveal it, I uploaded a comment containing this command :
 

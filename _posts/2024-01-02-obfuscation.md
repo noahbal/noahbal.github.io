@@ -5,7 +5,7 @@ categories : [Root-me, Web Client]
 tags : [javascript] # TAGS names should always be lowercase
 ---
 
-# Context
+## Context
 
 This [Root-Me](https://www.root-me.org/?page=news&lang=en) challenge takes place in the source code of a web page :
 
@@ -46,7 +46,7 @@ We can see a call to a function named **dechiffre** :
 String["fromCharCode"](dechiffre("\x35\x35\x2c\x35\x36\x2c\x35\x34\x2c\x37\x39\x2c\x31\x31\x35\x2c\x36\x39\x2c\x31\x31\x34\x2c\x31\x31\x36\x2c\x31\x30\x37\x2c\x34\x39\x2c\x35\x30"));
 ```
 
-# Resolution
+## Resolution
 
 I decrypted the string in argument using the command :
 ```javascript
