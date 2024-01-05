@@ -39,10 +39,11 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
+    - https://www.linkedin.com/in/noah-balencourt-050a3326b/
     - https://github.com/noahbal # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/noah.balencourt/
-    - https://www.linkedin.com/in/noah-balencourt
+   
 
 google_site_verification: # fill in to your verification string
 
