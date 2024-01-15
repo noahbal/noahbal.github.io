@@ -6,7 +6,7 @@ tags : [security breach, xss] # TAGS names should always be lowercase
 ---
 ## Cross-Site Scripting
 
-This [Root-Me](https://www.root-me.org/?page=news&lang=en) challenge introduces the XSS security breach. Let's define the what this vulnerability is.
+This challenge introduces the XSS security breach. Let's define the what this vulnerability is.
 
 An XSS (Cross-Site Scripting) flaw is a common security vulnerability that can occur in web applications. It allows attackers to inject and execute malicious code (usually JavaScript) into web pages viewed by other users.
 

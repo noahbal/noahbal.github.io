@@ -7,7 +7,7 @@ tags : [javascript] # TAGS names should always be lowercase
 
 ## Context
 
-This [Root-Me](https://www.root-me.org/?page=news&lang=en) challenge takes place in the source code of a web page :
+This challenge takes place in the source code of a web page :
 
 ```html
 <html>
